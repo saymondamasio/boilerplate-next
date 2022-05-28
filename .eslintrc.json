@@ -8,6 +8,7 @@
   "rules": {
     "prettier/prettier": "error",
     "@next/next/no-img-element": "off",
-     "no-unused-vars": "error"
+     "no-unused-vars": "error",
+     "import/no-anonymous-default-export": "off"
   }
 }
