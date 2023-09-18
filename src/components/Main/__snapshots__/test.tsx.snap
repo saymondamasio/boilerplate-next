@@ -2,7 +2,9 @@
 
 exports[`<Main /> > should render the heading 1`] = `
 <div>
-  <h1>
+  <h1
+    class="text-4xl"
+  >
     Hello
   </h1>
 </div>
